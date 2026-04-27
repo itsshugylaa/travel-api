@@ -129,36 +129,36 @@
         "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
         "rating": 4.9
       }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Tokyo City Tour",
+    "location": "Japan",
+    "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+    "rating": 4.7,
+    "description": "Explore Tokyo streets, temples, shopping districts, and modern city life.",
+    "category": "City",
+    "duration": "5 days",
+    "pricePerPerson": 799,
+    "isFavorite": false,
+    "packages": [
       {
-  "id": "3",
-  "name": "Tokyo City Tour",
-  "location": "Japan",
-  "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
-  "rating": 4.7,
-  "description": "Explore Tokyo streets, temples, shopping districts, and modern city life.",
-  "category": "City",
-  "duration": "5 days",
-  "pricePerPerson": 799,
-  "isFavorite": false,
-  "packages": [
-    {
-      "id": "0",
-      "name": "Tokyo Classic",
-      "description": "City tour, temple visit, and shopping district walk.",
-      "price": 799,
-      "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
-      "badge": "New"
-    }
-  ],
-  "reviews": [
-    {
-      "userName": "Nora",
-      "text": "Tokyo was bright, clean, and very exciting.",
-      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
-      "rating": 4.7
-    }
-  ]
-}
+        "id": "0",
+        "name": "Tokyo Classic",
+        "description": "City tour, temple visit, and shopping district walk.",
+        "price": 799,
+        "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+        "badge": "New"
+      }
+    ],
+    "reviews": [
+      {
+        "userName": "Nora",
+        "text": "Tokyo was bright, clean, and very exciting.",
+        "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "rating": 4.7
+      }
     ]
   }
 ]
