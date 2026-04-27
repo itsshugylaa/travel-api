@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0",
+    "name": "Paris Highlights",
+    "location": "France",
+    "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "rating": 4.9,
+    "description": "Explore the Eiffel Tower, Louvre Museum, cozy cafes, and beautiful streets of Paris.",
+    "category": "City",
+    "duration": "5 days",
+    "pricePerPerson": 699,
+    "isFavorite": false,
+    "packages": [
+      {
+        "id": "0",
+        "name": "Classic Paris",
+        "description": "City tour, museum pass, and Seine River cruise.",
+        "price": 699,
+        "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a",
+        "badge": "#1 Popular"
+      },
+      {
+        "id": "1",
+        "name": "Romantic Paris",
+        "description": "Dinner cruise, photo spots, and luxury hotel stay.",
+        "price": 899,
+        "imageUrl": "https://images.unsplash.com/photo-1522093007474-d86e9bf7ba6f",
+        "badge": "Best for couples"
+      }
+    ],
+    "reviews": [
+      {
+        "userName": "Amina",
+        "text": "Amazing city views and lovely atmosphere. I enjoyed every day.",
+        "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "rating": 5
+      },
+      {
+        "userName": "Diana",
+        "text": "The museum pass was very useful. Great trip for first-time visitors.",
+        "avatarUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Bali Escape",
+    "location": "Indonesia",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "rating": 4.8,
+    "description": "Enjoy beaches, tropical nature, relaxing resorts, and cultural landmarks in Bali.",
+    "category": "Beach",
+    "duration": "7 days",
+    "pricePerPerson": 849,
+    "isFavorite": false,
+    "packages": [
+      {
+        "id": "0",
+        "name": "Beach Relax",
+        "description": "Resort stay, beach club access, and island transfer.",
+        "price": 849,
+        "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206",
+        "badge": "Top beach pick"
+      },
+      {
+        "id": "1",
+        "name": "Bali Adventure",
+        "description": "Waterfall tour, jungle swing, and ATV experience.",
+        "price": 999,
+        "imageUrl": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1",
+        "badge": "Adventure"
+      }
+    ],
+    "reviews": [
+      {
+        "userName": "Ray",
+        "text": "Perfect sunsets and beautiful beaches. Very relaxing trip.",
+        "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "rating": 4.9
+      },
+      {
+        "userName": "Lina",
+        "text": "Loved the mix of nature and culture. Would go again.",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Swiss Alps Tour",
+    "location": "Switzerland",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "rating": 4.9,
+    "description": "Discover scenic train rides, mountain villages, hiking, and unforgettable alpine views.",
+    "category": "Mountain",
+    "duration": "6 days",
+    "pricePerPerson": 1099,
+    "isFavorite": false,
+    "packages": [
+      {
+        "id": "0",
+        "name": "Scenic Alps",
+        "description": "Train pass, panoramic hotel, and mountain excursions.",
+        "price": 1099,
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "badge": "#1 Scenic"
+      },
+      {
+        "id": "1",
+        "name": "Winter Escape",
+        "description": "Ski access, chalet stay, and snow activities.",
+        "price": 1299,
+        "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+        "badge": "Winter"
+      }
+    ],
+    "reviews": [
+      {
+        "userName": "Mark",
+        "text": "The mountain views were unreal. One of my best trips.",
+        "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+        "rating": 5
+      },
+      {
+        "userName": "Sara",
+        "text": "Very organized and peaceful. Great for nature lovers.",
+        "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+        "rating": 4.9
+      }
+    ]
+  }
+]
